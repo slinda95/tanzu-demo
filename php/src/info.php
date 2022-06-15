@@ -21,10 +21,11 @@ echo ksasahara;
 echo "mmori";
 echo('ykanai');
 echo "this is hshimizu";
-
+echo "xxxxxxxxxxxxxxxx"
 
 
 $c = "Bamba";
+
 echo $c;
 
 
